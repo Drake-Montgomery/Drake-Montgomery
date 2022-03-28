@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Drake-Montgomery
-- 👀 I’m interested in C#, Python, SQL Server, Javascript
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on C# 
-- 📫 How to reach me sned me an email eder_vip@outlook.com, or hit me me up on Linkedin www.linkedin.com/in/eder-moura
-
-<!---
-Drake-Montgomery/Drake-Montgomery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My name is Drake, How you doin' ?
+<div>
+  <a href="https://github.com/Drake-Montgomery">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drake-Montgomery&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-Montgomery&layout=compact&langs_count=7&theme=radical" />
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Drake-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Drake-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Drake-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Drake-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Drake-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Drake-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/edeer_moura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eder-moura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
