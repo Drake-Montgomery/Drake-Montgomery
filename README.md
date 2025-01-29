@@ -1,4 +1,4 @@
-# My name is Drake, How you doin' ?
+# My name is Drake, how you doin' ?
 <div>
   <a href="https://github.com/Drake-Montgomery">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drake-Montgomery&show_icons=true&theme=radical" />
